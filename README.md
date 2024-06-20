@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdana&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=8&theme=dracula)
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jsdana&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdana&layout=compact)](https://github.com/jsdana/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jsdana&show_weight=0.5&count_weight=0.5&layout=donut&langs_count=8&theme=dracula )
