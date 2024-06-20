@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jsdana&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?jsdana=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdana&layout=compact)](https://github.com/jsdana/github-readme-stats)
